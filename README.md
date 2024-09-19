@@ -9,7 +9,7 @@ Simple game
 Class_301:
 
 - Adam
-- Mokołaj Pokora
+- Mikołaj Pokora
 
 ChairPro:
 - Lech Mazur
