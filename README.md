@@ -2,10 +2,11 @@
 
 Simple game
 
-## Credits:
+## Credits
 
-### Assets:
+### Assets
 
 Class_301:
+
 - Adam
-- Mokołaj Pokora
+- Mikołaj Pokora
