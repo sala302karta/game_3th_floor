@@ -1,0 +1,9 @@
+v1.1 (26.09.2024) (Mikołaj Pokora):
+- materials and render configuration improvements
+
+v1.1 (19.09.2024) (Mikołaj Pokora):
+- materials improvements
+
+
+v1 (19.09.2024) (Lech Mazur):
+- creted the model and materials
