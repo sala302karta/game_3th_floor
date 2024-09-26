@@ -1,4 +1,4 @@
-v 2.0
+v 2.0 (26.09.2024):
 - Fixed UVs
 - Added Wall thickness (30 cm)
 - Improved floor blender material
@@ -7,5 +7,5 @@ v 2.0
 - configured EVEE rendering engine
 
 
-v 1.0:
+v 1.0 (19.09.2024):
 - Initial classroom 301
