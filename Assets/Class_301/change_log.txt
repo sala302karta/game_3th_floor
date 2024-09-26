@@ -1,0 +1,11 @@
+v 2.0
+- Fixed UVs
+- Added Wall thickness (30 cm)
+- Improved floor blender material
+- deleted camera
+- moved light inside the room
+- configured EVEE rendering engine
+
+
+v 1.0:
+- Initial classroom 301
